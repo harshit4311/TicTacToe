@@ -12,7 +12,4 @@ public class Cell {
     }
 }
 
-enum CellState {
-    EMPTY,
-    FILLED
-}
+
