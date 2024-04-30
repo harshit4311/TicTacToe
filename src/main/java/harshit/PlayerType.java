@@ -1,6 +1,6 @@
 package harshit;
 
 public enum PlayerType {
-    Human,
-    Bot
+    HUMAN,
+    BOT
 }

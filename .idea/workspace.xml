@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2338bd64-8d11-4723-8dc5-f79fb50fbf9c" name="Changes" comment="Initialize models and enums for TicTacToe Project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controllers/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/InvalidMoveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strategies/WinningAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/harshit/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/harshit/Move.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/harshit/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/harshit/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/harshit/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/harshit/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/harshit/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/harshit/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/harshit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/harshit/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/harshit/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/harshit/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/harshit/PlayerType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/harshit/PlayerType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/harshit/Symbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/harshit/Symbol.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +38,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2fVpxtvss8FddGr8IN7yOYOdRGz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1713896349312</updated>
       <workItem from="1713896350741" duration="2295000" />
-      <workItem from="1713934402138" duration="308000" />
+      <workItem from="1713934402138" duration="4910000" />
+      <workItem from="1714496815352" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize models and enums for TicTacToe Project">
       <option name="closed" value="true" />
